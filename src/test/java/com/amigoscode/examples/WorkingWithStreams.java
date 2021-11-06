@@ -12,5 +12,11 @@ public class WorkingWithStreams {
     @Test
     void steams() {
         List<String> names = List.of("Amigoscode", "Alex", "Zara");
+        Stream<String> stream = names.stream();
+        Stream<String> namesStrema = Stream.of("Amigoscode", "Alex", "Zara");
+
+        List<Object> collect = stream
+                .limit(2).map(null).sorted(null).dropWhile(null)
+                .collect(Collectors.toList());
     }
 }

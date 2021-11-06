@@ -14,7 +14,28 @@
     "price": "66403.47",
     "year": 2002,
     "color": "Fuscia"
-  },
+  },{
+  "id": 20000,
+  "make": "Toyota",
+  "model": "Corolla",
+  "price": "6",
+  "year": 2002,
+  "color": "red"
+},{
+  "id": 20001,
+  "make": "Toyota",
+  "model": "Corolla",
+  "price": "6",
+  "year": 2002,
+  "color": "red"
+},{
+  "id": 20002,
+  "make": "Toyota",
+  "model": "Corolla",
+  "price": "6",
+  "year": 2002,
+  "color": "red"
+},
   {
     "id": 3,
     "make": "Ford",
